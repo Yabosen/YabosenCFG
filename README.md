@@ -10,3 +10,12 @@ dead inside✓mentally unstable✓mentally ill✓going insane✓emo✓goth✓mis
 https://steamcommunity.com/id/Yabosen/
 
 I Hate Everyone Im An Antisocial Person 
+
+I Wanna Kill Myself
+
+Lvl 3 Prodogy Faceit Player Depressed Dead Inside Idiot
+
+I Have Bipolar Aim Phycho Movement And A Very Small Will To Live
+
+If Im Gonna Kill Myself Im Going To Make It Live On Kick So Follow Me
+https://kick.com/yabosen
