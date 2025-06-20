@@ -1,0 +1,2 @@
+# YabosenCFG
+My Config
