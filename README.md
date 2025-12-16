@@ -19,3 +19,5 @@ I Have Bipolar Aim Phycho Movement And A Very Small Will To Live
 
 If Im Gonna Kill Myself Im Going To Make It Live On Kick So Follow Me
 https://kick.com/yabosen
+
+```viewmodel_fov 65;viewmodel_offset_x 2.5;viewmodel_offset_y 0;viewmodel_offset_z -1.5```
