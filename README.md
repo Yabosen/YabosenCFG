@@ -13,7 +13,7 @@ I Hate Everyone Im An Antisocial Person
 
 I Wanna Kill Myself
 
-Lvl 3 Prodogy Faceit Player Depressed Dead Inside Idiot
+Lvl 6 Prodogy Faceit Player Depressed Dead Inside Idiot
 
 I Have Bipolar Aim Phycho Movement And A Very Small Will To Live
 
