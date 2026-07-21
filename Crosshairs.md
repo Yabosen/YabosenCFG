@@ -1,3 +1,5 @@
+# im lazy fixing this for now
+
 # Crosshair 1
 ```
 cl_crosshairsize 1.6;cl_crosshairthickness 0.4;cl_crosshairgap -3.4;cl_crosshairstyle 4;cl_crosshair_drawoutline 1;cl_crosshair_outlinethickness 1.5;cl_crosshairdot 1;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 123;cl_crosshaircolor_b 255;cl_crosshaircolor_r 101;cl_crosshairalpha 255;cl_crosshair_recoil 0
