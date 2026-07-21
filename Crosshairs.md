@@ -3,17 +3,22 @@
 cl_crosshairsize 1.6;cl_crosshairthickness 0.4;cl_crosshairgap -3.4;cl_crosshairstyle 4;cl_crosshair_drawoutline 1;cl_crosshair_outlinethickness 1.5;cl_crosshairdot 1;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 123;cl_crosshaircolor_b 255;cl_crosshaircolor_r 101;cl_crosshairalpha 255;cl_crosshair_recoil 0
 ```
 # Crosshair 2
-```cl_crosshairsize 1.6;cl_crosshairthickness 0.4;cl_crosshairgap -2.41;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 1.5;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 128;cl_crosshairalpha 255;cl_crosshair_recoil 0```
+```
+cl_crosshairsize 1.6;cl_crosshairthickness 0.4;cl_crosshairgap -2.41;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 1.5;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 128;cl_crosshairalpha 255;cl_crosshair_recoil 0
+```
 
 # Crosshair 3
-```cl_crosshairsize 1.0;cl_crosshairthickness 0.0;cl_crosshairgap -2.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 1;cl_crosshair_outlinethickness 1.0;cl_crosshairdot 1;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshairalpha 255;cl_crosshair_recoil 0```
-
+```
+cl_crosshairsize 1.0;cl_crosshairthickness 0.0;cl_crosshairgap -2.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 1;cl_crosshair_outlinethickness 1.0;cl_crosshairdot 1;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshairalpha 255;cl_crosshair_recoil 0
+```
 # Crosshair 4
-```cl_crosshairsize 2.2;cl_crosshairthickness 1.0;cl_crosshairgap -3.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0.0;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 0;cl_crosshaircolor_r 0;cl_crosshairalpha 255;cl_crosshair_recoil 0```
-
+```
+cl_crosshairsize 2.2;cl_crosshairthickness 1.0;cl_crosshairgap -3.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0.0;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 0;cl_crosshaircolor_r 0;cl_crosshairalpha 255;cl_crosshair_recoil 0
+```
 # Crosshair 5
-```cl_crosshairsize 1;cl_crosshairthickness 1;cl_crosshairgap -4.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0.0;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 128;cl_crosshairalpha 255;cl_crosshair_recoil 0```
-
+```
+cl_crosshairsize 1;cl_crosshairthickness 1;cl_crosshairgap -4.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0.0;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 128;cl_crosshairalpha 255;cl_crosshair_recoil 0
+```
 # Crosshair 6
 ```cl_crosshairsize 3;cl_crosshairthickness 0.5;cl_crosshairgap -2.0;cl_crosshairstyle 4;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0.0;cl_crosshairdot 0;cl_crosshair_t 0;cl_crosshairgap_useweaponvalue 0;cl_crosshaircolor 5;cl_crosshaircolor_g 0;cl_crosshaircolor_b 255;cl_crosshaircolor_r 255;cl_crosshairalpha 255;cl_crosshair_recoil 0```
 
